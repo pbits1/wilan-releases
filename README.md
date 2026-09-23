@@ -64,6 +64,22 @@ sha256sum -c SHA256SUMS.txt
 
 ---
 
+## 🔒 Privacy & Safety
+
+- **Zero Data Collection**: WiLan does not collect, track, or store any personal data, analytics, or file metadata.
+- **100% Local & Offline**: Transfers happen directly peer-to-peer over your local Wi-Fi or hotspot. Nothing ever leaves your local network or touches the internet.
+- **No Accounts**: No sign-ups, no logins, and zero cloud dependencies.
+
+---
+
+## ⚖️ About & Disclaimer
+
+WiLan is an independent project created and maintained by **pbits1**.
+
+It is provided for free **"as is"**, without warranty of any kind, express or implied. In no event shall the author or copyright holders be liable for any claim, damages, or other liability arising from the use of the software. Free for everyone to use and share.
+
+---
+
 ## 💬 Feedback & Issues
 
 Encountered an issue or have a feature suggestion?
