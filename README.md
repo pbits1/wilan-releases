@@ -22,21 +22,21 @@ Download the latest version directly from the [**Latest Releases**](https://gith
 ## 📦 Installation Guide
 
 ### Android
-1. Download `WiLan-1.0.0-android.apk` on your device.
+1. Download `WiLan-1.0.1-android.apk` on your device.
 2. Open the downloaded file from your browser or file manager.
 3. If prompted by Android, tap **Settings** and allow installation from this source.
 4. Open **WiLan** and grant the required nearby device & storage permissions.
 
 ### Windows
-1. Download `WiLan-1.0.0-windows.msi` (or `.exe`).
+1. Download `WiLan-1.0.1-windows.msi` (or `.exe`).
 2. Double-click the installer and follow the quick setup wizard.
 3. Launch **WiLan** from your Start Menu or desktop shortcut.
 
 ### Linux (Ubuntu / Debian / Linux Mint / Pop!_OS)
-1. Download `WiLan-1.0.0-linux.deb`.
+1. Download `WiLan-1.0.1-linux.deb`.
 2. Open your terminal in the download folder and run:
    ```bash
-   sudo apt install ./WiLan-1.0.0-linux.deb
+   sudo apt install ./WiLan-1.0.1-linux.deb
    ```
    *(Or simply double-click the `.deb` file in your desktop file manager to install via Software Center).*
 3. Launch **WiLan** from your application app launcher.
