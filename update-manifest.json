@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
-  "buildNumber": 3,
+  "version": "1.0.3",
+  "buildNumber": 4,
   "releaseDate": "2026-10-07",
-  "downloadUrl": "https://github.com/pbits1/wilan-releases/releases/download/v1.0.2/WiLan-V1.0.2.apk",
+  "downloadUrl": "https://github.com/pbits1/wilan-releases/releases/download/v1.0.3/WiLan-V1.0.3.apk",
   "changelog": [
-    "Wire-level offset resumption for paused and interrupted transfers",
-    "Automated temporary file lifecycle management and disk storage cleanup",
-    "Edge-to-edge system insets and safe-drawing layout polish across all screens",
-    "Actionable empty states and unified navigation nomenclature"
+    "Check for updates feature in Settings with live version checking and direct updates",
+    "Streamlined Home Screen: removed redundant status cards, badges, and decorative dots",
+    "Tri-platform parity across Android, Linux, and Windows",
+    "Wire-level offset resumption, tamper-proof Ed25519 signatures, and atomic commits"
   ],
   "minimumVersion": "1.0.0",
-  "fileSha256": "53d9d30648812c55f136864446844bea6f89237ae0773608774d1f91245347da",
-  "manifestSignature": "jj0lnHs6OT6EDSC9xtHDE127c6ChlyD5EZcQFmLUN5hnD3fFJnS6qazZ+5RObltaC6RPVxhSXl8Tzihq8udBBg=="
+  "fileSha256": "b0538e24f9dc6b6b8416eb451bfd9d8d7e15d4ec77ae2a982acd0673b93f51de",
+  "manifestSignature": "s2+F11ej+7seoOdG6o2j68uNFxdLubLjt2gwXz8TCfdDo9oqYirYuVXLBa87NdpnbhW/qxptcWUvWR3krh1NCg=="
 }
