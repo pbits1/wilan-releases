@@ -1,0 +1,15 @@
+{
+  "version": "1.0.2",
+  "buildNumber": 3,
+  "releaseDate": "2026-10-07",
+  "downloadUrl": "https://github.com/pbits1/wilan-releases/releases/download/v1.0.2/WiLan-V1.0.2.apk",
+  "changelog": [
+    "Wire-level offset resumption for paused and interrupted transfers",
+    "Automated temporary file lifecycle management and disk storage cleanup",
+    "Edge-to-edge system insets and safe-drawing layout polish across all screens",
+    "Actionable empty states and unified navigation nomenclature"
+  ],
+  "minimumVersion": "1.0.0",
+  "fileSha256": "d86d83a9910e494dc82496e874fd1ac720dcda6f42db1e19b71b0476b17a8609",
+  "manifestSignature": "ER1h30Qjh+sP4BRWQ0MCe9vtoLN7myPSTfOfxCapJa/5WL57aoyqlKIdnThsDrWF/ferrG0fHKQ+BHNdzW0FCQ=="
+}
