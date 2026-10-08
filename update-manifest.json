@@ -1,15 +1,17 @@
 {
-  "version": "1.0.3",
-  "buildNumber": 4,
-  "releaseDate": "2026-10-07",
-  "downloadUrl": "https://github.com/pbits1/wilan-releases/releases/download/v1.0.3/WiLan-V1.0.3.apk",
+  "version": "1.0.2",
+  "buildNumber": 3,
+  "releaseDate": "2026-10-08",
+  "downloadUrl": "https://github.com/pbits1/wilan-releases/releases/download/v1.0.2/WiLan-1.0.2-android.apk",
   "changelog": [
-    "Check for updates feature in Settings with live version checking and direct updates",
-    "Streamlined Home Screen: removed redundant status cards, badges, and decorative dots",
-    "Tri-platform parity across Android, Linux, and Windows",
-    "Wire-level offset resumption, tamper-proof Ed25519 signatures, and atomic commits"
+    "Check for updates feature in Settings with live version checking and direct update prompts",
+    "Custom WiLan-branded update alert dialogs and elevated card surfaces across Desktop and Android",
+    "Multi-layered OS auto dark/light theme detection (GNOME, KDE Plasma, XFCE, Windows, Android)",
+    "Wire-level offset resumption for interrupted transfers and atomic commits",
+    "Automated temporary file lifecycle management and disk storage cleanup",
+    "100% localization parity across 9 supported languages"
   ],
   "minimumVersion": "1.0.0",
-  "fileSha256": "b0538e24f9dc6b6b8416eb451bfd9d8d7e15d4ec77ae2a982acd0673b93f51de",
-  "manifestSignature": "s2+F11ej+7seoOdG6o2j68uNFxdLubLjt2gwXz8TCfdDo9oqYirYuVXLBa87NdpnbhW/qxptcWUvWR3krh1NCg=="
+  "fileSha256": "b394e0d7104e9233f3a04b3f2e078dcb95e9999761e2ad441de3f2773cc9157f",
+  "manifestSignature": "qMPM8bB7RDCApdV/eQbgs+UiC1mvxSXCp9w/2G/QRyTgfuctK4PyKKZ5i10J7rOCVfjSrFjtiDw61WkMrm2uCw=="
 }
